@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Kiko Now
+name: Jjong's BLOG
 
 # Short bio or description (displayed in the header)
 description: Web Developer from Somewhere
@@ -29,7 +29,7 @@ navigation:
   - name: Tags
     url: /tags
   - name: Theme
-    url: https://github.com/AWEEKJ/kiko-now
+    url: https://github.com/dhks77
 
 # Pagination
 paginate: 5
