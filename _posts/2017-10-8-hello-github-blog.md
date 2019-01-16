@@ -3,6 +3,8 @@ layout: post
 title: HELLO GITHUB BLOG!
 tags:
   - NHN
+  - GITHUB
+  - BLOG
 ---
 야근을 하며 블로그 포스트를 적어보고 있습니다.
 
