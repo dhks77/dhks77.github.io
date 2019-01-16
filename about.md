@@ -6,10 +6,10 @@ permalink: /about/
 
 SLEEPY DEVELOPER!!!
 
-### More Information
+### WORK EXPERIENCE
 
-NHN ENTERTAINMENT!!!
+NHN ENTERTAINMENT (2019-01-02 ~ xxxx-xx-xx)
 
 ### Contact me
 
-[dhks77@nhnent.com](mailto:dhks77@nhnent.com)
+[snn77@nhnent.com](mailto:snn77@nhnent.com)
