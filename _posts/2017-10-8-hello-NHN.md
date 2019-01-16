@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HELLO NHN!
+title: HELLO GITHUB BLOG!
 tags:
   - NHN
 ---
