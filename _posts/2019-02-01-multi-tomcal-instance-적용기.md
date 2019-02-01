@@ -11,11 +11,11 @@ account 서버와 mail서버를 한 서버 안에서 분리하기 위해 저희 
 
 한 서버에서 tomcat을 띄우기 위해서는 총 5가지의 작업이 필요합니다.
 
-- apache/conf/httpd.conf 수정
-- apache/conf/workers.properties 수정
-- tomcat 2개 생성
-- tomcat/conf/server.xml 수정
-- tomcat/bin/catalina.sh 수정
+1. apache/conf/httpd.conf 수정
+1. apache/conf/workers.properties 수정
+1. tomcat 2개 생성
+1. tomcat/conf/server.xml 수정
+1. tomcat/bin/catalina.sh 수정
 
 
 ---
